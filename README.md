@@ -37,3 +37,7 @@ O HashifyPass deve estar habilitado no formulário de login a partir de agora. E
 ## Vídeo da Instalação
 
 Um vídeo suplementar que segue os passos acima pode ser encontrado [neste link](https://localhost).
+
+## Licença
+
+O arquivo do src/hashifypass.js software é distribuído sob a Licença MIT, que pode ser encontrada no arquivo LICENSE neste repositório.
