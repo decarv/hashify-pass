@@ -42,4 +42,4 @@ Um vídeo suplementar que segue os passos acima pode ser encontrado [neste link]
 
 ## Licença
 
-O arquivo do src/hashifypass.js software é distribuído sob a Licença MIT, que pode ser encontrada no arquivo LICENSE neste repositório.
+Este software é distribuído sob a Licença MIT, que pode ser encontrada no arquivo LICENSE neste repositório.
