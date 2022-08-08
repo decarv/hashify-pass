@@ -2,7 +2,7 @@
 
 HashifyPass é uma ferramenta usada para visualização de senhas em websites, como alternativa à utilização da visualização de senha em texto plano. Esta ferramenta busca evitar ataques de shoulder surfing durante a digitação da senha.
 
-O HashifyPass é um trabalho criado com base no trabalho anterior hashify.js, que pode ser encontrado [neste repositório](https://gitlab.com/jorgemiguelribeiro92/hashify). As poucas modificações foram realizadas no arquivo src/hashify.js e podem ser encontradas [neste link](https://www.diffchecker.com/BL3EEMHL). O HashifyPass propriamente dito está no arquivo src/hashifypass.js.
+O HashifyPass é um trabalho criado com base no trabalho anterior hashify.js, que pode ser encontrado [neste repositório](https://gitlab.com/jorgemiguelribeiro92/hashify). As poucas modificações que foram realizadas no arquivo src/hashify.js podem ser encontradas [neste link](https://www.diffchecker.com/BL3EEMHL). O HashifyPass propriamente dito está no arquivo src/hashifypass.js.
 
 ## Instalação do HashifyPass em um formulário de login genérico
 
