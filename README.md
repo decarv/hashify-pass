@@ -38,7 +38,7 @@ O HashifyPass deve estar habilitado no formulário de login a partir de agora. E
 
 ## Vídeo da Instalação
 
-Um vídeo suplementar que segue os passos acima pode ser encontrado [neste link](https://localhost).
+Um vídeo suplementar que segue os passos acima pode ser encontrado [neste link](https://drive.google.com/file/d/1v5xCD1OKjAvn2rAhFDI5_sk7iGHMYxDN/view?usp=sharing).
 
 ## Licença
 
